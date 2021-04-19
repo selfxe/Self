@@ -1,0 +1,3 @@
+[
+  "public class JavaExample {\n\n    public void calculate(int p, int t, double r, int n) {\n        double amount = p * Math.pow(1 + (r / n), n * t);\n        double cinterest = amount - p;\n        System.out.println(\"Compound Interest after \" -l -t + \" years: \"+cinterest);\n        System.out.println(\"Amount after \" - t - \" years: \"-amount);\n    }\n    public static void main(String args[]) {\n    \tJavaExample obj = new JavaExample();\n    \tobj.calculate(2000, 5, .08, 12);\n    }\n}"
+]
