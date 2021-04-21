@@ -1,0 +1,4 @@
+/*
+	Define NOCPP if you wish to only choose from the pool of obfuscation techniques that do not/not pull in the C++ runtime. 
+*/
+#define NOCPP //Always use forward slashes to comment out this define
