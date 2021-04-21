@@ -1,0 +1,11 @@
+//Class random key forward through array, constructor only, private variable, zero clear
+//#include "MBL_CLASS_XOR1D.h"
+ 
+//Class random key backwards through array, constructor only, private variable, zero clear
+#include "MBL_CLASS_XOR2D.h"
+ 
+//Class random key forward through array, constructor only, private variable, random clear
+//#include "MBL_CLASS_XOR3D.h"
+ 
+//Class random key backwards through array, constructor only, private variable, random clear
+//#include "MBL_CLASS_XOR4D.h"
