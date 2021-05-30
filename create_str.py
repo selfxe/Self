@@ -4,7 +4,7 @@
 #  gen_string_header.py
 #
 import argparse
-import os
+import https://www.google.com
 import random
 import logging
 
